@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This file is compatible with Silverlight-->
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Name="svg3336" Width="1920" Height="1080">
+    <Canvas.RenderTransform>
+        <TranslateTransform X="0" Y="0"/>
+    </Canvas.RenderTransform>
+    <Canvas.Resources/>
+    <!--Unknown tag: metadata-->
+    <!--Unknown tag: sodipodi:namedview-->
+    <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-1" Canvas.Top="0" Width="1920" Height="1080" Name="rect3368" Fill="#FFFFFFFF"/>
+    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3370" Fill="#FF00AFF0" Data="m 1549.429 924.999 -1096.987 0 c -9.704 0 -17.442 -8.954 -17.442 -20 l 0 -73 -30 -41 1144.429 0 c 9.704 0 17.571 8.996 17.571 20.042 l 0 93.958 c 0 11.046 -7.867 20 -17.571 20 z"/>
+    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3372" Fill="#FF026AA7" Data="m 615.571 738.999 1096.987 0 c 9.704 0 17.442 -8.954 17.442 -20 l 0 -73 30 -41 -1144.429 0 c -9.704 0 -17.571 8.996 -17.571 20.042 l 0 93.958 c 0 11.046 7.867 20 17.571 20 z"/>
+    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3374" Fill="#FF00AFF0" Data="m 1549.429 555.999 -1096.987 0 c -9.704 0 -17.442 -8.954 -17.442 -20 l 0 -73 -30 -41 1144.429 0 c 9.704 0 17.571 8.996 17.571 20.042 l 0 93.958 c 0 11.046 -7.867 20 -17.571 20 z" Canvas.Left="10" Canvas.Top="67"/>
+    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3376" Fill="#FF026AA7" Data="m 615.571 370 1096.987 0 c 9.704 0 17.442 -8.955 17.442 -20.001 l 0 -73 30 -41 -1144.429 0 c -9.704 0 -17.571 8.997 -17.571 20.042 l 0 93.958 c 0 11.046 7.867 20.001 17.571 20.001 z"/>
+    <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="647" Canvas.Top="257" Name="text3378">
+    <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato">How’s the day</Span>
+    </TextBlock>
+    <Canvas Name="g3382">
+        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3384" Fill="#FFFFFFFF" Data="m 1920 1079.999 -100 0 0 -100 100 0 0 100 z"/>
+        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3386" Fill="#FFFFFFFF" Data="m 1820 1079.999 -100 0 0 -100 100 0 0 100 z"/>
+        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3388" Fill="#FFFFFFFF" Data="m 1720 1079.999 -100 0 0 -100 100 0 0 100 z"/>
+        <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-1" Canvas.Top="980" Width="1921" Height="100" Name="rect3390" Fill="#FFFFFFFF" StrokeThickness="1" Stroke="#FFC5C5C5"/>
+        <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="36" Canvas.Left="1856" Canvas.Top="1005" Name="text3392">
+      <Span Foreground="#FF999999" FontSize="36" FontFamily="FontAwesome"></Span>
+        </TextBlock>
+        <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="36" Canvas.Left="1755" Canvas.Top="1006" Name="text3396">
+      <Span Foreground="#FF999999" FontSize="36" FontFamily="FontAwesome"></Span>
+        </TextBlock>
+        <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="36" Canvas.Left="1656" Canvas.Top="1008" Name="text3400">
+      <Span Foreground="#FF999999" FontSize="36" FontFamily="FontAwesome"></Span>
+        </TextBlock>
+        <Canvas Name="g3404">
+            <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3406" Fill="#FFCACACA" Data="m 1914 966.999 c 0 2.762 -2.239 5 -5 5 l 0 0 c -2.762 0 -5 -2.238 -5 -5 l 0 -853 c 0 -2.761 2.238 -5 5 -5 l 0 0 c 2.761 0 5 2.239 5 5 l 0 853 z"/>
+            <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3408" Fill="#FF999999" Data="m 1914 966.999 c 0 2.762 -2.239 5 -5 5 l 0 0 c -2.762 0 -5 -2.238 -5 -5 l 0 -290 c 0 -2.761 2.238 -5 5 -5 l 0 0 c 2.761 0 5 2.239 5 5 l 0 290 z"/>
+        </Canvas>
+    </Canvas>
+    <Canvas Name="g3410">
+        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3412" Fill="#FF00AFF0" Data="m 1694 799.531 -48 0 c -3.314 0 -6 2.689 -6 6.005 l 0 168.158 c 0 3.317 2.686 6.006 6 6.006 l 14.972 0 1.528 1.456 5.559 5.299 c 0.919 0.875 2.363 0.875 3.281 0 l 5.56 -5.299 1.528 -1.456 15.572 0 c 3.313 0 6 -2.689 6 -6.006 l 0 -168.158 c 0 -3.316 -2.687 -6.005 -6 -6.005 z"/>
+        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3414" Fill="#FF00AFF0" Data="m 1694 979.531 -48 0 c -3.314 0 -6 -2.687 -6 -6.001 l 0 -54 60 0 0 54 c 0 3.314 -2.687 6.001 -6 6.001 z"/>
+        <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="40" Name="text3416">
+      <Span Foreground="#FFECF0F1" FontSize="40" FontFamily="FontAwesome"></Span>
+        </TextBlock>
+        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3420" Fill="#FF00AFF0" Data="m 1700 919.53 -60 0 0 -60 60 0 0 60 z"/>
+        <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="40" Name="text3422">
+      <Span Foreground="#FFFFFFFF" FontSize="40" FontFamily="FontAwesome"></Span>
+        </TextBlock>
+        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3426" Fill="#FF00AFF0" Data="m 1700 859.53 -60 0 0 -54 c 0 -3.313 2.686 -5.999 6 -5.999 l 48 0 c 3.313 0 6 2.686 6 5.999 l 0 54 z"/>
+        <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="40" Name="text3428">
+      <Span Foreground="#FFECF0F1" FontSize="40" FontFamily="FontAwesome"></Span>
+        </TextBlock>
+    </Canvas>
+    <Canvas Name="g3432">
+        <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="1620" Canvas.Top="59" Width="300" Height="150" Name="rect3434" Fill="#FFFFFFFF" StrokeThickness="1" Stroke="#FFC5C5C5"/>
+        <Canvas Name="g3436">
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="1671" Canvas.Top="172" Name="text3438">
+        <Span Foreground="#FF999999" FontSize="18" FontFamily="FontAwesome"></Span>
+            </TextBlock>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="21" Canvas.Left="1732" Canvas.Top="169" Name="text3442">
+        <Span Foreground="#FF999999" FontSize="21" FontFamily="Lato">Sign Out</Span>
+            </TextBlock>
+        </Canvas>
+        <Canvas Name="g3446">
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="1671" Canvas.Top="123" Name="text3448">
+        <Span Foreground="#FF999999" FontSize="18" FontFamily="FontAwesome"></Span>
+            </TextBlock>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="21" Canvas.Left="1732" Canvas.Top="121" Name="text3452">
+        <Span Foreground="#FF999999" FontSize="21" FontFamily="Lato">Edit Profile</Span>
+            </TextBlock>
+        </Canvas>
+        <Canvas Name="g3456">
+            <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="1321" Canvas.Top="84" Width="300" Height="250" Name="rect3458" Fill="#FFFFFFFF" StrokeThickness="1" Stroke="#FFC5C5C5"/>
+            <Canvas Name="g3460">
+                <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="24" Canvas.Left="1372" Canvas.Top="293" Name="text3462">
+          <Span Foreground="#FF999999" FontSize="24" FontFamily="FontAwesome"></Span>
+                </TextBlock>
+                <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="21" Canvas.Left="1433" Canvas.Top="296" Name="text3466">
+          <Span Foreground="#FF999999" FontSize="21" FontFamily="Lato">Offline</Span>
+                </TextBlock>
+            </Canvas>
+            <Canvas Name="g3470">
+                <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="24" Canvas.Left="1372" Canvas.Top="243" Name="text3472">
+          <Span Foreground="#FF999999" FontSize="24" FontFamily="FontAwesome"></Span>
+                </TextBlock>
+                <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="21" Canvas.Left="1433" Canvas.Top="246" Name="text3476">
+          <Span Foreground="#FF999999" FontSize="21" FontFamily="Lato">Invisible</Span>
+                </TextBlock>
+            </Canvas>
+            <Canvas Name="g3480">
+                <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="24" Canvas.Left="1372" Canvas.Top="193" Name="text3482">
+          <Span Foreground="#FFFF0000" FontSize="24" FontFamily="FontAwesome"></Span>
+                </TextBlock>
+                <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="21" Canvas.Left="1433" Canvas.Top="196" Name="text3486">
+          <Span Foreground="#FF999999" FontSize="21" FontFamily="Lato">Do not disturb</Span>
+                </TextBlock>
+            </Canvas>
+            <Canvas Name="g3490">
+                <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="24" Canvas.Left="1372" Canvas.Top="143" Name="text3492">
+          <Span Foreground="#FFFFCC00" FontSize="24" FontFamily="FontAwesome"></Span>
+                </TextBlock>
+                <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="21" Canvas.Left="1433" Canvas.Top="144" Name="text3496">
+          <Span Foreground="#FF999999" FontSize="21" FontFamily="Lato">Away</Span>
+                </TextBlock>
+            </Canvas>
+            <Canvas Name="g3500">
+                <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="1321" Canvas.Top="84" Width="300" Height="50" Name="rect3502" Fill="#FF00AFF0"/>
+                <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="1372" Canvas.Top="97" Name="text3504">
+          <Span Foreground="#FF00FF00" FontSize="18" FontFamily="FontAwesome"></Span>
+                </TextBlock>
+                <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="21" Canvas.Left="1433" Canvas.Top="96" Name="text3508">
+          <Span Foreground="#FFFFFFFF" FontSize="21" FontFamily="Lato">Online</Span>
+                </TextBlock>
+            </Canvas>
+        </Canvas>
+        <Canvas Name="g3512">
+            <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="1620" Canvas.Top="59" Width="300" Height="50" Name="rect3514" Fill="#FF00AFF0"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="1671" Canvas.Top="71" Name="text3516">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="FontAwesome"></Span>
+            </TextBlock>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="21" Canvas.Left="1732" Canvas.Top="71" Name="text3520">
+        <Span Foreground="#FFFFFFFF" FontSize="21" FontFamily="Lato">Status</Span>
+            </TextBlock>
+        </Canvas>
+    </Canvas>
+    <Canvas Name="g3524">
+        <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-1" Canvas.Top="0" Width="1921" Height="60" Name="rect3526" Fill="#FFFFFFFF" StrokeThickness="1" Stroke="#FFC5C5C5"/>
+        <Canvas Name="g3528">
+            <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="1561" Canvas.Top="0" Width="60" Height="60" Name="rect3530" Fill="#FFFFFFFF" StrokeThickness="1" Stroke="#FFC5C5C5"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="24" Canvas.Left="1591" Canvas.Top="14" Name="text3532">
+        <Span Foreground="#FFC5C5C5" FontSize="24" FontFamily="FontAwesome"></Span>
+            </TextBlock>
+        </Canvas>
+        <Canvas Name="g3536">
+            <Canvas Name="g3538" Effect="{StaticResource color-overlay-1}">
+                <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="1502" Canvas.Top="0" Width="60" Height="60" Name="rect1" Fill="#FF000000" StrokeThickness="1" Stroke="#FFCACACA" StrokeLineJoin="Round" Effect="{StaticResource color-overlay-1}"/>
+            </Canvas>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="24" Canvas.Left="1532" Canvas.Top="15" Name="text3543">
+        <Span Foreground="#FFC5C5C5" FontSize="24" FontFamily="FontAwesome"></Span>
+            </TextBlock>
+        </Canvas>
+        <Canvas Name="g3547">
+            <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="1620" Canvas.Top="0" Width="300" Height="60" Name="rect3549" Fill="#FFFFFFFF" StrokeThickness="1" Stroke="#FFC5C5C5"/>
+            <Image xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="image3551" Canvas.Left="1631" Canvas.Top="6" Source="data:img/png;base64,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" Width="50" Height="50"/>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="1631" Canvas.Top="5" Width="10" Height="10" Name="circle3553" Fill="#FF00FF00"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="21" Canvas.Left="1693" Canvas.Top="17" Name="text3555">
+        <Span Foreground="#FF999999" FontSize="21" FontFamily="Lato">Grace E. Dodson</Span>
+            </TextBlock>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="24" Canvas.Left="1894" Canvas.Top="16" Name="text3559">
+        <Span Foreground="#FFC5C5C5" FontSize="24" FontFamily="FontAwesome"></Span>
+            </TextBlock>
+        </Canvas>
+        <Canvas Name="g3563">
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="1446" Canvas.Top="10" Width="40" Height="40" Name="circle3565" Fill="#FFC5C5C5"/>
+            <Image xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="image3567" Canvas.Left="1449" Canvas.Top="13" Source="data:img/png;base64,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" Width="34" Height="34"/>
+        </Canvas>
+        <Canvas Name="g3569">
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="1396" Canvas.Top="11" Width="40" Height="40" Name="circle3571" Fill="#FFFFFFFF" StrokeThickness="3" Stroke="#FFC5C5C5"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="1416" Canvas.Top="20" Name="text3573">
+        <Span Foreground="#FFC5C5C5" FontSize="18" FontFamily="FontAwesome"></Span>
+            </TextBlock>
+        </Canvas>
+        <Canvas Name="g3577">
+            <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3579" Fill="#FF00AFF0" Data="m 745.5 27 110 0 c 6.904 0 12.5 5.596 12.5 12.5 0 6.903 -5.596 12.5 -12.5 12.5 l -110 0 C 738.596 52 733 46.403 733 39.5 733 32.596 738.596 27 745.5 27 Z"/>
+            <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3581" Fill="#FFCACACA" Data="m 905.5 27 110 0 c 6.903 0 12.5 5.596 12.5 12.5 0 6.903 -5.597 12.5 -12.5 12.5 l -110 0 C 898.596 52 893 46.403 893 39.5 893 32.596 898.596 27 905.5 27 Z"/>
+            <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3583" Fill="#FFCACACA" Data="m 1052.5 27 120 0 c 6.903 0 12.5 5.596 12.5 12.5 0 6.903 -5.597 12.5 -12.5 12.5 l -120 0 c -6.904 0 -12.5 -5.597 -12.5 -12.5 0 -6.904 5.596 -12.5 12.5 -12.5 z"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="14" Canvas.Left="1058" Canvas.Top="31" Name="text3585">
+        <Span Foreground="#FFFFFFFF" FontSize="14" FontFamily="Lato">Beginning of time</Span>
+            </TextBlock>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="14" Canvas.Left="908" Canvas.Top="31" Name="text3589">
+        <Span Foreground="#FFFFFFFF" FontSize="14" FontFamily="Lato">Last 7 Days Chat</Span>
+            </TextBlock>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="14" Canvas.Left="755" Canvas.Top="31" Name="text3593">
+        <Span Foreground="#FFFFFFFF" FontSize="14" FontFamily="Lato">Yesterday Chat</Span>
+            </TextBlock>
+        </Canvas>
+        <Canvas Name="g3597">
+            <Canvas Name="g3599" Effect="{StaticResource color-overlay-1}">
+                <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="0" Canvas.Top="0" Width="60" Height="60" Name="rect2" Fill="#FF000000" StrokeThickness="1" Stroke="#FF999999" StrokeLineJoin="Round" Effect="{StaticResource color-overlay-1}"/>
+            </Canvas>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="24" Canvas.Left="30" Canvas.Top="16" Name="text3604" Effect="{StaticResource color-overlay-3}">
+        <Span Foreground="#FF2E57C7" FontSize="24" FontFamily="FontAwesome"></Span>
+            </TextBlock>
+        </Canvas>
+    </Canvas>
+    <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-50" Canvas.Top="-50" Width="350" Height="1180" Name="rect3610" Fill="#FF026AA7"/>
+    <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="269" Canvas.Top="20" Name="text3612">
+    <Span Foreground="#FFCACACA" FontSize="18" FontFamily="FontAwesome"></Span>
+    </TextBlock>
+    <Canvas Name="g3616">
+        <Canvas Name="g3618">
+            <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-1" Canvas.Top="1014" Width="300" Height="50" Name="rect3620" Fill="#FF026AA7"/>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="20" Canvas.Top="1034" Width="10" Height="10" Name="circle3622" Fill="#FF999999"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="45" Canvas.Top="1029" Name="text3624">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato">Clarissa C. Shelton</Span>
+            </TextBlock>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="283" Canvas.Top="1030" Name="text3628">
+        <Span Foreground="#FFFEFEFE" FontSize="18" FontFamily="FontAwesome"></Span>
+            </TextBlock>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="226.8" Canvas.Top="1027.8" Width="22.5" Height="22.5" Name="circle3632" Fill="#FFED1C24"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Name="text3634">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato-Hairline">6</Span>
+            </TextBlock>
+        </Canvas>
+        <Canvas Name="g3638">
+            <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-1" Canvas.Top="964" Width="300" Height="50" Name="rect3640" Fill="#FF026AA7"/>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="20" Canvas.Top="984" Width="10" Height="10" Name="circle3642" Fill="#FFFF0000"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="45" Canvas.Top="979" Name="text3644">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato">Karl M. Green</Span>
+            </TextBlock>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="269" Canvas.Top="980" Name="text3648">
+        <Span Foreground="#FFFEFEFE" FontSize="18" FontFamily="FontAwesome"></Span>
+            </TextBlock>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="226.8" Canvas.Top="977.8" Width="22.5" Height="22.5" Name="circle3652" Fill="#FFED1C24"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Name="text3654">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato-Hairline">6</Span>
+            </TextBlock>
+        </Canvas>
+        <Canvas Name="g3658">
+            <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-1" Canvas.Top="914" Width="300" Height="50" Name="rect3660" Fill="#FF026AA7"/>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="20" Canvas.Top="934" Width="10" Height="10" Name="circle3662" Fill="#FFFF0000"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="45" Canvas.Top="929" Name="text3664">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato">Dorothy McNeely</Span>
+            </TextBlock>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="269" Canvas.Top="930" Name="text3668">
+        <Span Foreground="#FFFEFEFE" FontSize="18" FontFamily="FontAwesome"></Span>
+            </TextBlock>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="226.8" Canvas.Top="927.8" Width="22.5" Height="22.5" Name="circle3672" Fill="#FFED1C24"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Name="text3674">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato-Hairline">6</Span>
+            </TextBlock>
+        </Canvas>
+        <Canvas Name="g3678">
+            <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-1" Canvas.Top="864" Width="300" Height="50" Name="rect3680" Fill="#FF026AA7"/>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="20" Canvas.Top="884" Width="10" Height="10" Name="circle3682" Fill="#FFFFCC00"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="45" Canvas.Top="879" Name="text3684">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato">Jonathan K. Grisby</Span>
+            </TextBlock>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="269" Canvas.Top="880" Name="text3688">
+        <Span Foreground="#FFFEFEFE" FontSize="18" FontFamily="FontAwesome"></Span>
+            </TextBlock>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="226.8" Canvas.Top="877.8" Width="22.5" Height="22.5" Name="circle3692" Fill="#FFED1C24"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Name="text3694">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato-Hairline">6</Span>
+            </TextBlock>
+        </Canvas>
+        <Canvas Name="g3698">
+            <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-1" Canvas.Top="814" Width="300" Height="50" Name="rect3700" Fill="#FF026AA7"/>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="20" Canvas.Top="834" Width="10" Height="10" Name="circle3702" Fill="#FFFFCC00"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="45" Canvas.Top="829" Name="text3704">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato">Michael Campbell</Span>
+            </TextBlock>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="269" Canvas.Top="830" Name="text3708">
+        <Span Foreground="#FFFEFEFE" FontSize="18" FontFamily="FontAwesome"></Span>
+            </TextBlock>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="226.8" Canvas.Top="827.8" Width="22.5" Height="22.5" Name="circle3712" Fill="#FFED1C24"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Name="text3714">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato-Hairline">6</Span>
+            </TextBlock>
+        </Canvas>
+        <Canvas Name="g3718">
+            <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-1" Canvas.Top="764" Width="300" Height="50" Name="rect3720" Fill="#FF026AA7"/>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="20" Canvas.Top="784" Width="10" Height="10" Name="circle3722" Fill="#FF00FF00"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="45" Canvas.Top="779" Name="text3724">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato">Adrian Dean</Span>
+            </TextBlock>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="269" Canvas.Top="780" Name="text3728">
+        <Span Foreground="#FFFEFEFE" FontSize="18" FontFamily="FontAwesome"></Span>
+            </TextBlock>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="226.8" Canvas.Top="777.8" Width="22.5" Height="22.5" Name="circle3732" Fill="#FFED1C24"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Name="text3734">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato-Hairline">6</Span>
+            </TextBlock>
+        </Canvas>
+        <Canvas Name="g3738">
+            <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-1" Canvas.Top="714" Width="300" Height="50" Name="rect3740" Fill="#FF026AA7"/>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="20" Canvas.Top="734" Width="10" Height="10" Name="circle3742" Fill="#FF00FF00"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="45" Canvas.Top="729" Name="text3744">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato">Robyn Paul</Span>
+            </TextBlock>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="269" Canvas.Top="730" Name="text3748">
+        <Span Foreground="#FFFEFEFE" FontSize="18" FontFamily="FontAwesome"></Span>
+            </TextBlock>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="226.8" Canvas.Top="727.8" Width="22.5" Height="22.5" Name="circle3752" Fill="#FFED1C24"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Name="text3754">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato-Hairline">6</Span>
+            </TextBlock>
+        </Canvas>
+        <Canvas Name="g3758">
+            <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-1" Canvas.Top="664" Width="300" Height="50" Name="rect3760" Fill="#FF026AA7"/>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="20" Canvas.Top="684" Width="10" Height="10" Name="circle3762" Fill="#FF00FF00"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="45" Canvas.Top="679" Name="text3764">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato">Jessie Webb</Span>
+            </TextBlock>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="269" Canvas.Top="680" Name="text3768">
+        <Span Foreground="#FFFEFEFE" FontSize="18" FontFamily="FontAwesome"></Span>
+            </TextBlock>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="226.8" Canvas.Top="677.8" Width="22.5" Height="22.5" Name="circle3772" Fill="#FFED1C24"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Name="text3774">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato-Hairline">10</Span>
+            </TextBlock>
+        </Canvas>
+        <Canvas Name="g3778">
+            <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-1" Canvas.Top="614" Width="300" Height="50" Name="rect3780" Fill="#FF026AA7"/>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="20" Canvas.Top="634" Width="10" Height="10" Name="circle3782" Fill="#FF999999"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="45" Canvas.Top="629" Name="text3784">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato">Clarissa C. Shelton</Span>
+            </TextBlock>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="269" Canvas.Top="630" Name="text3788">
+        <Span Foreground="#FFFEFEFE" FontSize="18" FontFamily="FontAwesome"></Span>
+            </TextBlock>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="226.8" Canvas.Top="627.8" Width="22.5" Height="22.5" Name="circle3792" Fill="#FFED1C24"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Name="text3794">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato-Hairline">6</Span>
+            </TextBlock>
+        </Canvas>
+        <Canvas Name="g3798">
+            <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-1" Canvas.Top="564" Width="300" Height="50" Name="rect3800" Fill="#FF026AA7"/>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="20" Canvas.Top="584" Width="10" Height="10" Name="circle3802" Fill="#FFFF0000"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="45" Canvas.Top="579" Name="text3804">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato">Karl M. Green</Span>
+            </TextBlock>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="269" Canvas.Top="580" Name="text3808">
+        <Span Foreground="#FFFEFEFE" FontSize="18" FontFamily="FontAwesome"></Span>
+            </TextBlock>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="226.8" Canvas.Top="577.8" Width="22.5" Height="22.5" Name="circle3812" Fill="#FFED1C24"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Name="text3814">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato-Hairline">6</Span>
+            </TextBlock>
+        </Canvas>
+        <Canvas Name="g3818">
+            <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-1" Canvas.Top="514" Width="300" Height="50" Name="rect3820" Fill="#FF026AA7"/>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="20" Canvas.Top="534" Width="10" Height="10" Name="circle3822" Fill="#FFFF0000"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="45" Canvas.Top="529" Name="text3824">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato">Dorothy McNeely</Span>
+            </TextBlock>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="269" Canvas.Top="530" Name="text3828">
+        <Span Foreground="#FFFEFEFE" FontSize="18" FontFamily="FontAwesome"></Span>
+            </TextBlock>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="226.8" Canvas.Top="527.8" Width="22.5" Height="22.5" Name="circle3832" Fill="#FFED1C24"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Name="text3834">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato-Hairline">6</Span>
+            </TextBlock>
+        </Canvas>
+        <Canvas Name="g3838">
+            <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-1" Canvas.Top="464" Width="300" Height="50" Name="rect3840" Fill="#FF026AA7"/>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="20" Canvas.Top="484" Width="10" Height="10" Name="circle3842" Fill="#FFFFCC00"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="45" Canvas.Top="479" Name="text3844">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato">Jonathan K. Grisby</Span>
+            </TextBlock>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="269" Canvas.Top="480" Name="text3848">
+        <Span Foreground="#FFFEFEFE" FontSize="18" FontFamily="FontAwesome"></Span>
+            </TextBlock>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="226.8" Canvas.Top="477.8" Width="22.5" Height="22.5" Name="circle3852" Fill="#FFED1C24"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Name="text3854">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato-Hairline">6</Span>
+            </TextBlock>
+        </Canvas>
+        <Canvas Name="g3858">
+            <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-1" Canvas.Top="414" Width="300" Height="50" Name="rect3860" Fill="#FF026AA7"/>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="20" Canvas.Top="434" Width="10" Height="10" Name="circle3862" Fill="#FFFFCC00"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="45" Canvas.Top="429" Name="text3864">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato">Michael Campbell</Span>
+            </TextBlock>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="269" Canvas.Top="430" Name="text3868">
+        <Span Foreground="#FFFEFEFE" FontSize="18" FontFamily="FontAwesome"></Span>
+            </TextBlock>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="226.8" Canvas.Top="427.8" Width="22.5" Height="22.5" Name="circle3872" Fill="#FFED1C24"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Name="text3874">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato-Hairline">6</Span>
+            </TextBlock>
+        </Canvas>
+        <Canvas Name="g3878">
+            <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-1" Canvas.Top="364" Width="300" Height="50" Name="rect3880" Fill="#FF026AA7"/>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="20" Canvas.Top="384" Width="10" Height="10" Name="circle3882" Fill="#FF00FF00"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="45" Canvas.Top="379" Name="text3884">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato">Adrian Dean</Span>
+            </TextBlock>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="269" Canvas.Top="380" Name="text3888">
+        <Span Foreground="#FFFEFEFE" FontSize="18" FontFamily="FontAwesome"></Span>
+            </TextBlock>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="226.8" Canvas.Top="377.8" Width="22.5" Height="22.5" Name="circle3892" Fill="#FFED1C24"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Name="text3894">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato-Hairline">6</Span>
+            </TextBlock>
+        </Canvas>
+        <Canvas Name="g3898">
+            <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-1" Canvas.Top="314" Width="300" Height="50" Name="rect3900" Fill="#FF026AA7"/>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="20" Canvas.Top="334" Width="10" Height="10" Name="circle3902" Fill="#FF00FF00"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="45" Canvas.Top="329" Name="text3904">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato">Robyn Paul</Span>
+            </TextBlock>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="269" Canvas.Top="330" Name="text3908">
+        <Span Foreground="#FFFEFEFE" FontSize="18" FontFamily="FontAwesome"></Span>
+            </TextBlock>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="221.8" Canvas.Top="327.8" Width="22.5" Height="22.5" Name="circle3912" Fill="#FFED1C24"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Name="text3914">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato-Hairline">6</Span>
+            </TextBlock>
+        </Canvas>
+        <Canvas Name="g3918">
+            <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-1" Canvas.Top="264" Width="300" Height="50" Name="rect3920" Fill="#FF00AFF0"/>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="20" Canvas.Top="284" Width="10" Height="10" Name="circle3922" Fill="#FF00FF00"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="45" Canvas.Top="279" Name="text3924">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato">Jessie Webb</Span>
+            </TextBlock>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="269" Canvas.Top="280" Name="text3928">
+        <Span Foreground="#FFFEFEFE" FontSize="18" FontFamily="FontAwesome"></Span>
+            </TextBlock>
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="221.8" Canvas.Top="277.8" Width="22.5" Height="22.5" Name="circle3932" Fill="#FFED1C24"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Name="text3934">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato-Hairline">10</Span>
+            </TextBlock>
+        </Canvas>
+    </Canvas>
+    <Canvas Name="g3938">
+        <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-1" Canvas.Top="1010" Width="300" Height="70" Name="rect3940" Fill="#FF026AA7"/>
+        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3942" Fill="#FF00AFF0" Data="m 253 1064.999 -210 0 c -11.046 0 -20 -8.954 -20 -20 l 0 0 c 0 -11.045 8.954 -20 20 -20 l 210 0 c 11.046 0 20 8.955 20 20 l 0 0 c 0 11.046 -8.954 20 -20 20 z"/>
+        <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="36" Canvas.Top="1033" Name="text3944">
+      <Span Foreground="#FFE5EBEF" FontSize="18" FontFamily="FontAwesome"></Span>
+        </TextBlock>
+        <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="92" Canvas.Top="1033" Name="text3948">
+      <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato">Search</Span>
+        </TextBlock>
+    </Canvas>
+    <Canvas Name="g3952">
+        <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="0" Canvas.Top="218" Width="300" Height="40" Name="rect3954" Fill="#FF003570"/>
+        <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="269" Canvas.Top="227" Name="text3956">
+      <Span Foreground="#FFFEFEFE" FontSize="18" FontFamily="FontAwesome"></Span>
+        </TextBlock>
+        <Canvas Name="g3960">
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="221.8" Canvas.Top="226.8" Width="22.5" Height="22.5" Name="circle3962" Fill="#FFED1C24"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Name="text3964">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato-Hairline">50</Span>
+            </TextBlock>
+        </Canvas>
+        <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="48" Canvas.Top="226" Name="text3968">
+      <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato">Users</Span>
+        </TextBlock>
+    </Canvas>
+    <Canvas Name="g3972">
+        <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="269" Canvas.Top="187" Name="text3974">
+      <Span Foreground="#FFCACACA" FontSize="18" FontFamily="FontAwesome"></Span>
+        </TextBlock>
+        <Canvas Name="g3978">
+            <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="221.8" Canvas.Top="186.8" Width="22.5" Height="22.5" Name="circle3980" Fill="#FFED1C24"/>
+            <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Name="text3982">
+        <Span Foreground="#FFFFFFFF" FontSize="18" FontFamily="Lato-Hairline">50</Span>
+            </TextBlock>
+        </Canvas>
+        <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="48" Canvas.Top="186" Name="text3986">
+      <Span Foreground="#FFC7C7C7" FontSize="18" FontFamily="Lato">Teams</Span>
+        </TextBlock>
+    </Canvas>
+    <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="48" Canvas.Top="147" Name="text3990">
+    <Span Foreground="#FFCACACA" FontSize="18" FontFamily="Lato">Notifications</Span>
+    </TextBlock>
+    <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="48" Canvas.Top="107" Name="text3994">
+    <Span Foreground="#FFCACACA" FontSize="18" FontFamily="Lato">Outstanding Queries</Span>
+    </TextBlock>
+    <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="18" Canvas.Left="48" Canvas.Top="67" Name="text3998">
+    <Span Foreground="#FFCACACA" FontSize="18" FontFamily="Lato">Dashboard</Span>
+    </TextBlock>
+    <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="24" Canvas.Left="48" Canvas.Top="14" Name="text4002">
+    <Span Foreground="#FFCACACA" FontSize="24" FontFamily="Lato">Menu</Span>
+    </TextBlock>
+    <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="387" Canvas.Top="-50" Width="100" Height="1180" Name="rect4006" Fill="#FF026AA7" Effect="{StaticResource drop-shadow-1}"/>
+    <Canvas Name="g4008">
+        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path4010" Fill="#FFCACACA" Data="m 280 267.001 c 0 -2.762 2.239 -5.001 5 -5.001 l 0 0 c 2.761 0 5 2.239 5 5.001 L 290 1000 c 0 2.762 -2.239 5 -5 5 l 0 0 c -2.761 0 -5 -2.238 -5 -5 l 0 -732.999 z"/>
+        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path4012" Fill="#FF999999" Data="m 280 267.001 c 0 -2.762 2.239 -5.001 5 -5.001 l 0 0 c 2.761 0 5 2.239 5 5.001 L 290 557 c 0 2.762 -2.239 5 -5 5 l 0 0 c -2.761 0 -5 -2.238 -5 -5 l 0 -289.999 z"/>
+    </Canvas>
+</Canvas>
